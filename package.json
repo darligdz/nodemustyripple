@@ -1,0 +1,12 @@
+{
+  "name": "validator-55da5e",
+  "version": "1.6.0",
+  "description": "A validator utility",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node --watch index.js"
+  },
+  "keywords": ["validator", "utility"],
+  "license": "MIT"
+}
